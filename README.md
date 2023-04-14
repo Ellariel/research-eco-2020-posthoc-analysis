@@ -1,1 +1,1 @@
-## Socio-Demographic Determinants of the Better-than-Average Effect in the Context of Pro-Environmental Behavior: post-hoc analysis for https://doi.org/10.1016/j.spc.2021.05.008
+### These are supplementary materials to the article "Socio-demographic determinants of the better-than-average effect in the context of pro-environmental behavior: post-hoc analysis", based on data from (https://doi.org/10.1016/j.spc.2021.05.008)[https://doi.org/10.1016/j.spc.2021.05.008].
